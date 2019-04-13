@@ -1,0 +1,60 @@
+@import url(http://fonts.googleapis.com/css?family=Open%20Sans:400,300,300italic,400italic,700,700italic,900,900italic);
+
+html {
+	overflow-x:hidden;
+	padding: 0 !important;
+	background:#fff;
+	margin:0px !important;
+}
+
+
+.fullwidthbanner-container{
+		width:100% !important;
+		position:relative;
+		padding:0;
+		overflow:hidden;
+		color:#000000;
+}
+
+.tp-caption{
+	font-size:14px;
+}
+
+.custom-font-1{
+	font-family:"Open Sans", Arial, Helvetica, sans-serif;
+	font-size:16px;
+	letter-spacing:10px;
+	text-transform:uppercase;
+}
+
+.custom-font-2{
+	font-family:"Dosis", Arial, Helvetica, sans-serif;
+	font-size:52px;
+	font-weight:700;
+	letter-spacing:2px;
+}
+
+.line{
+	width:145px;
+	height:4px;
+	background:#fff;
+}
+
+a.btn-slider{
+	display:block;
+	border:solid 2px #fff;
+	color:#fff;
+	border-radius:2px;
+	padding:10px 40px 10px 40px;
+	text-transform:uppercase;
+}
+
+.border-v{
+	height:300px;
+	width:1px;
+	background:rgba(255,255,255,.6);
+}
+
+.custom-warna {
+	font-weight: bold!important;
+}
