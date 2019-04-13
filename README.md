@@ -1,5 +1,5 @@
 # AutomatedJill-FireFighterIoT
-Firefighter IoT project with esp8266, blynk, and thingspeak.
+# Firefighter IoT project with esp8266, blynk, and thingspeak.
 
 ![Result-1.JPG](https://github.com/DwikiWitman/AutomatedJill-FireFighterIoT/blob/master/Result-1.JPG)
 
