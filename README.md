@@ -16,4 +16,4 @@ Tools that required for building our complete system is :
 1. Blynk (Download di playstore)
 2. Thingspeak (API Server)
 
-Our complete system is in our documentation [sini](https://github.com/DwikiWitman/AutomatedJill-FireFighterIoT/blob/master/Documentation/Laporan%20IoT%20Automated%20Jill.pdf)
+Our complete system is in our documentation [here](https://github.com/DwikiWitman/AutomatedJill-FireFighterIoT/blob/master/Documentation/Laporan%20IoT%20Automated%20Jill.pdf)
