@@ -2,7 +2,7 @@
 
 ![Result-1.JPG](https://github.com/DwikiWitman/AutomatedJill-FireFighterIoT/blob/master/Result-1.JPG)
 
-Alat yang dibutuhkan untuk pembuatan sistem ini meliputi :
+Tools that required for building our complete system is :
 1. NodeMCU
 2. PCB Lubang
 3. Humid Sensor (DHT 11)
@@ -12,8 +12,8 @@ Alat yang dibutuhkan untuk pembuatan sistem ini meliputi :
 7. Solder, Tenol, Atraktor, Casing Box
 8. Pemantik Api, Kardus, Obeng, dsb.
 
-Aplikasi pihak ketiga yang dibutuhkan meliputi :
+3rd Application that we use :
 1. Blynk (Download di playstore)
 2. Thingspeak (API Server)
 
-Pembuatan sistem selengkapnya lihat di [sini](https://github.com/DwikiWitman/AutomatedJill-FireFighterIoT/blob/master/Documentation/Laporan%20IoT%20Automated%20Jill.pdf)
+Our complete system is here [sini](https://github.com/DwikiWitman/AutomatedJill-FireFighterIoT/blob/master/Documentation/Laporan%20IoT%20Automated%20Jill.pdf)
